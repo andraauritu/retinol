@@ -1,0 +1,22 @@
+
+em {
+	background-color: lightblue;
+
+}
+a href{
+	background-color: lightyellow;
+}
+span {
+	background-color: salmon;
+
+}
+input[type="text"]{
+	font-size: 30px;
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin: 20px 0;
+}
+.image1{
+	background: green url(https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png) 0 0 no-repeat;
+}
